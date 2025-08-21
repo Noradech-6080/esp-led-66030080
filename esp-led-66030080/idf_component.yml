@@ -1,0 +1,11 @@
+version: "0.1.0"
+description: "Display component for Lab08 – แสดงผลข้อมูลจากเซนเซอร์บน OLED/LCD"
+url: "https://github.com/Noradech-6080/Week-08-ESP-Component-Teamwork.git/esp-display-66030080"
+
+dependencies:
+  idf:
+    version: ">=5.0.0"
+  esp_lcd:
+    version: "^1.0.0"
+
+license: "MIT"
