@@ -3,7 +3,7 @@ services:
     image: espressif/idf:latest
     container_name: esp32-lab8
     volumes:
-      - .:/project
+      - .:/Lab08-66030080:/project
     working_dir: /project
     tty: true
     stdin_open: true
