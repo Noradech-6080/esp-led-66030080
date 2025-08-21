@@ -1,0 +1,9 @@
+# main/idf_component.yml
+dependencies:
+  sensor:
+    git: https://github.com/Nongtoonlnwza007eieiXD/Week-08-ESP-Component-Teamwork.git/esp-sensor-66030284.git
+    # ถ้าคอมโพเนนต์ไม่อยู่รากรีโป ใส่ path: <path ในรีโป>
+  display:
+    git: https://github.com/Natthanitcha687/Week-08-ESP-Component-Teamwork.git/esp-display-66030232.git
+  led:
+    git: https://github.com/Noradech-6080/Week-08-ESP-Component-Teamwork.git/esp-led-66030080.git
