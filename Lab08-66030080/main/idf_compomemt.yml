@@ -1,0 +1,12 @@
+dependencies:
+  sensor:
+    git: https://github.com/Nongtoonlnwza007eieiXD/esp-sensor-66030284.git
+    version: "main"
+
+  display:
+    git: https://github.com/Natthanitcha687/esp-display-66030232.git
+    version: "main"
+
+  led:
+    git: https://github.com/Noradech-6080/esp-led-66030080.git
+    version: "main"
